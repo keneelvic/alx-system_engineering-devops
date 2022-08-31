@@ -1,4 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
 /root/tmp/alx-general:wq
 /alx-system_engineering-devops/0x00-shell_basics
 
+=======
+/tmp/alx-system_engineering-devops/0x00-shell_basics
+>>>>>>> refs/remotes/origin/master
