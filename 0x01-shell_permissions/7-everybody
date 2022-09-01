@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -type f -exec chmod 555 {} 
+find ./ -type f -exec chmod 751 {} 
