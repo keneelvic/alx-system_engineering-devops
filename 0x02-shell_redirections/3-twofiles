@@ -1,0 +1,2 @@
+#!/bin/bash
+pr -JtT /etc/passwd /etc/hosts
